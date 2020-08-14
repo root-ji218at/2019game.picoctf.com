@@ -1,0 +1,5 @@
+/problems/investigative-reversing-1_6_34d37d1ca09ecad8586f81060529b1bd
+https://2019shell1.picoctf.com/static/96a72c19db02dd122447a4bfa5faef92/mystery.png
+https://2019shell1.picoctf.com/static/96a72c19db02dd122447a4bfa5faef92/mystery2.png
+https://2019shell1.picoctf.com/static/96a72c19db02dd122447a4bfa5faef92/mystery3.png
+https://2019shell1.picoctf.com/static/96a72c19db02dd122447a4bfa5faef92/mystery
