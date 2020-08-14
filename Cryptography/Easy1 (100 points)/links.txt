@@ -1,0 +1,2 @@
+https://2019shell1.picoctf.com/static/30d4405c34cf6490b082e6cf8f56ac56/table.txt
+http://rumkin.com/tools/cipher/otp.php

@@ -1,0 +1,3 @@
+https://2019shell1.picoctf.com/static/46e165b0a953075440f3a544fdb4cff1/message.txt
+https://www.google.com/maps/
+https://geocode.xyz/
