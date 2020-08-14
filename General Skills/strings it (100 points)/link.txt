@@ -1,0 +1,2 @@
+https://2019shell1.picoctf.com/static/762b9a36a6da791e3f61713fcfaf1721/strings
+/problems/strings-it_2_865eec66d190ef75386fb14e15972126

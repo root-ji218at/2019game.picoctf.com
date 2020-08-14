@@ -1,0 +1,1 @@
+cmp -bl cattos.jpg kitters.jpg|awk '{print $3}'|tr -d "\n";echo

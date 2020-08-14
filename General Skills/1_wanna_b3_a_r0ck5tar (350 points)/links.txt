@@ -1,0 +1,3 @@
+https://2019shell1.picoctf.com/static/ec882df63f9d0cfb8505879e0bc48c88/lyrics.txt
+https://codewithrockstar.com/online
+https://github.com/yyyyyyyan/rockstar-py
