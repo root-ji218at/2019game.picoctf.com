@@ -1,0 +1,8 @@
+/problems/m00nwalk2_2_649ce834eb7fe0f370d54645975c5ed7
+https://2019shell1.picoctf.com/static/ec58d35faf22aa6cf2ce87cbffc20245/message.wav
+https://2019shell1.picoctf.com/static/ec58d35faf22aa6cf2ce87cbffc20245/clue1.wav
+https://2019shell1.picoctf.com/static/ec58d35faf22aa6cf2ce87cbffc20245/clue2.wav
+https://2019shell1.picoctf.com/static/ec58d35faf22aa6cf2ce87cbffc20245/clue3.wav
+
+http://steghide.sourceforge.net/
+https://futureboy.us/stegano/decinput.html
